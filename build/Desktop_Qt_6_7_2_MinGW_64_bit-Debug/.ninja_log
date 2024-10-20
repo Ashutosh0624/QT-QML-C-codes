@@ -1,0 +1,16 @@
+# ninja log v6
+3	362	7511485999431672	demo_project_autogen/timestamp	bd22ba6dedb87fe1
+3	362	7511485999431672	demo_project_autogen/mocs_compilation.cpp	bd22ba6dedb87fe1
+3	362	7511485999431672	C:/Users/ashut/OneDrive/Desktop/QTqml_C++/demo_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/demo_project_autogen/timestamp	bd22ba6dedb87fe1
+3	362	7511485999431672	C:/Users/ashut/OneDrive/Desktop/QTqml_C++/demo_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/demo_project_autogen/mocs_compilation.cpp	bd22ba6dedb87fe1
+371	1484	7511486000008343	CMakeFiles/demo_project.dir/test.cpp.obj	e5ec981783db7958
+368	1514	7511486000008343	CMakeFiles/demo_project.dir/main.cpp.obj	9c8491566f98671d
+374	1570	7511486000008343	CMakeFiles/demo_project.dir/recievetestmessage.cpp.obj	8045a4c5a8df0224
+366	1578	7511485999977133	CMakeFiles/demo_project.dir/demo_project_autogen/mocs_compilation.cpp.obj	393e97d95e500b49
+1578	1703	7511486012105406	demo_project.exe	1d6813bc197da3a2
+20	125	7511487390880662	demo_project_autogen/timestamp	bd22ba6dedb87fe1
+20	125	7511487390880662	demo_project_autogen/mocs_compilation.cpp	bd22ba6dedb87fe1
+20	125	7511487390880662	C:/Users/ashut/OneDrive/Desktop/QTqml_C++/demo_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/demo_project_autogen/timestamp	bd22ba6dedb87fe1
+20	125	7511487390880662	C:/Users/ashut/OneDrive/Desktop/QTqml_C++/demo_project/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/demo_project_autogen/mocs_compilation.cpp	bd22ba6dedb87fe1
+126	1166	7511487391955848	CMakeFiles/demo_project.dir/main.cpp.obj	9c8491566f98671d
+1166	1271	7511487402351628	demo_project.exe	1d6813bc197da3a2
