@@ -1,0 +1,10 @@
+# ninja log v6
+7	613	7513840944379506	qt6-sharedPtr-ex_autogen/timestamp	9390ed65f9acd12
+7	613	7513840944379506	qt6-sharedPtr-ex_autogen/mocs_compilation.cpp	9390ed65f9acd12
+7	613	7513840944379506	C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-sharedPtr-ex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt6-sharedPtr-ex_autogen/timestamp	9390ed65f9acd12
+7	613	7513840944379506	C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-sharedPtr-ex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt6-sharedPtr-ex_autogen/mocs_compilation.cpp	9390ed65f9acd12
+618	2082	7513840945036217	CMakeFiles/qt6-sharedPtr-ex.dir/qt6-sharedPtr-ex_autogen/mocs_compilation.cpp.obj	1596cf453f7c9fc5
+625	2083	7513840945093119	CMakeFiles/qt6-sharedPtr-ex.dir/cat.cpp.obj	4830a41f58184e58
+629	2084	7513840945136440	CMakeFiles/qt6-sharedPtr-ex.dir/toy.cpp.obj	102ff0af89964a57
+621	2088	7513840945076587	CMakeFiles/qt6-sharedPtr-ex.dir/main.cpp.obj	b861d0015e5c9f9e
+2088	2198	7513840959751101	qt6-sharedPtr-ex.exe	b544b021c4aa6c26

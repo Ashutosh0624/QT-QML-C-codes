@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-8d9c382cc304e00bef5b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt6-sharedPtr-ex",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6-sharedPtr-ex::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6-sharedPtr-ex-Debug-d44fb832545322925d07.json",
+					"name" : "qt6-sharedPtr-ex",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6-sharedPtr-ex_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6-sharedPtr-ex_autogen-Debug-682a7d146cd9296d8742.json",
+					"name" : "qt6-sharedPtr-ex_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6-sharedPtr-ex_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6-sharedPtr-ex_autogen_timestamp_deps-Debug-8a7cad6662bba1b155dc.json",
+					"name" : "qt6-sharedPtr-ex_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-sharedPtr-ex/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-sharedPtr-ex"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
