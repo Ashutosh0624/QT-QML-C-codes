@@ -1,0 +1,17 @@
+# ninja log v6
+3	430	7513728162228960	qt6-parentChild_autogen/timestamp	c5960bed7a0dcc1d
+3	430	7513728162228960	C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-parentChild/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt6-parentChild_autogen/timestamp	c5960bed7a0dcc1d
+3	430	7513728162228960	C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-parentChild/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt6-parentChild_autogen/mocs_compilation.cpp	c5960bed7a0dcc1d
+3	430	7513728162228960	qt6-parentChild_autogen/mocs_compilation.cpp	c5960bed7a0dcc1d
+444	1772	7513728162977630	CMakeFiles/qt6-parentChild.dir/test.cpp.obj	62fdd9c124386b9
+435	1773	7513728162892208	CMakeFiles/qt6-parentChild.dir/qt6-parentChild_autogen/mocs_compilation.cpp.obj	f32fe5c97590411
+440	1859	7513728162937369	CMakeFiles/qt6-parentChild.dir/main.cpp.obj	ad807542e4a52f95
+1860	1960	7513728177133863	qt6-parentChild.exe	17e4c0d642dab218
+21	333	7513730562848609	qt6-parentChild_autogen/timestamp	c5960bed7a0dcc1d
+21	333	7513730562848609	qt6-parentChild_autogen/mocs_compilation.cpp	c5960bed7a0dcc1d
+21	333	7513730562848609	C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-parentChild/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt6-parentChild_autogen/timestamp	c5960bed7a0dcc1d
+21	333	7513730562848609	C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-parentChild/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt6-parentChild_autogen/mocs_compilation.cpp	c5960bed7a0dcc1d
+334	1461	7513730563268585	CMakeFiles/qt6-parentChild.dir/qt6-parentChild_autogen/mocs_compilation.cpp.obj	f32fe5c97590411
+341	1461	7513730563338602	CMakeFiles/qt6-parentChild.dir/Test.cpp.obj	1894bcf47fc4458f
+337	1488	7513730563308572	CMakeFiles/qt6-parentChild.dir/main.cpp.obj	ad807542e4a52f95
+1488	1593	7513730574816200	qt6-parentChild.exe	2e0fc5415ba22f76
