@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-f1481024ce9636099e99.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "qt6-QSharedPointer_QLIST_QMAP",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6-QSharedPointer_QLIST_QMAP::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6-QSharedPointer_QLIST_QMAP-Debug-f70f8f31eb80136d9dbc.json",
+					"name" : "qt6-QSharedPointer_QLIST_QMAP",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6-QSharedPointer_QLIST_QMAP_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6-QSharedPointer_QLIST_QMAP_autogen-Debug-d8f931e00d57183f9447.json",
+					"name" : "qt6-QSharedPointer_QLIST_QMAP_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "qt6-QSharedPointer_QLIST_QMAP_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-qt6-QSharedPointer_QLIST_QMAP_autogen_timestamp_deps-Debug-54d7999acd5093e76018.json",
+					"name" : "qt6-QSharedPointer_QLIST_QMAP_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug",
+		"source" : "C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}

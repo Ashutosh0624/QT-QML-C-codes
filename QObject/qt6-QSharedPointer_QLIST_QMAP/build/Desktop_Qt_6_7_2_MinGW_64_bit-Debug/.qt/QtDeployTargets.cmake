@@ -1,0 +1,3 @@
+set(__QT_DEPLOY_TARGET_qt6-QSharedPointer_QLIST_QMAP_FILE C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/qt6-QSharedPointer_QLIST_QMAP.exe)
+set(__QT_DEPLOY_TARGET_qt6-QSharedPointer_QLIST_QMAP_TYPE EXECUTABLE)
+set(__QT_DEPLOY_TARGET_qt6-QSharedPointer_QLIST_QMAP_RUNTIME_DLLS C:/Qt/6.7.2/mingw_64/bin/Qt6Core.dll)

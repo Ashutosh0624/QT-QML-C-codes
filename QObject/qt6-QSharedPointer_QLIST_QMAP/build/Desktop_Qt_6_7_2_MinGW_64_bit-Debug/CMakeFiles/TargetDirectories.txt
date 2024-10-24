@@ -1,0 +1,9 @@
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/qt6-QSharedPointer_QLIST_QMAP.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/qt6-QSharedPointer_QLIST_QMAP_autogen_timestamp_deps.dir
+C:/Users/ashut/OneDrive/Desktop/Coding_Folder/Qt-QML/QObject/qt6-QSharedPointer_QLIST_QMAP/build/Desktop_Qt_6_7_2_MinGW_64_bit-Debug/CMakeFiles/qt6-QSharedPointer_QLIST_QMAP_autogen.dir
